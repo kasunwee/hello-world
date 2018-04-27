@@ -1,0 +1,9 @@
+This is a test text file.
+To be used within GitHub system.
+Import to the master and to all branches.
+Currently we have following branches:
+Feature
+Development
+Development-Mobile
+Quality-Asurance
+Each branch will differently edit this TEXT 
