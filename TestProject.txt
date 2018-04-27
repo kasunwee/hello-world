@@ -1,9 +1,8 @@
 This is a test text file.
 To be used within GitHub system.
-Import to the master and to all branches.
-Currently we have following branches:
+This file is Imported to the master and later came to Release branch after this new branch is created.
+Currently we have some other branches as follows:
 Feature
 Development
 Development-Mobile
 Quality-Asurance
-Each branch will differently edit this TEXT 
