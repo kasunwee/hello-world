@@ -1,6 +1,9 @@
 This is a test text file.
 To be used within GitHub system.
 Import to the master and to all branches.
+
+This edit is from Quality-Asurance branch.
+
 Currently we have following branches:
 Feature
 Development
